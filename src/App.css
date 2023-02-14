@@ -1,0 +1,21 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.title{
+  font-size: 20px;
+}
+
+.label-text{
+  font-size: 10px;
+
+}
+main{
+  min-height: 80vh !important;
+}
+.footer{
+background-color: rgb(0, 0, 0);
+color: aliceblue;
+padding: 2%;
+}
